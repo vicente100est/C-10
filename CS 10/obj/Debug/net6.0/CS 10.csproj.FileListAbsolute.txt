@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\bin\Debug\net6.0\CS 10.exe
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\bin\Debug\net6.0\CS 10.deps.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\bin\Debug\net6.0\CS 10.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\bin\Debug\net6.0\CS 10.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\bin\Debug\net6.0\CS 10.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\CS 10.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\CS 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\CS 10.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\CS 10.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\CS 10.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\CS 10.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\refint\CS 10.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\CS 10.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\CS 10.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\ref\CS 10.dll

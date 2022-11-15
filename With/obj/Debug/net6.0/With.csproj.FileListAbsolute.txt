@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\bin\Debug\net6.0\With.exe
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\bin\Debug\net6.0\With.deps.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\bin\Debug\net6.0\With.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\bin\Debug\net6.0\With.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\bin\Debug\net6.0\With.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\obj\Debug\net6.0\With.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\obj\Debug\net6.0\With.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\obj\Debug\net6.0\With.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\obj\Debug\net6.0\With.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\obj\Debug\net6.0\With.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\obj\Debug\net6.0\With.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\obj\Debug\net6.0\refint\With.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\obj\Debug\net6.0\With.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\obj\Debug\net6.0\With.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\With\obj\Debug\net6.0\ref\With.dll

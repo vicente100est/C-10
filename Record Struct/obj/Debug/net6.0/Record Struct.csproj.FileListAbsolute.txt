@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\bin\Debug\net6.0\Record Struct.exe
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\bin\Debug\net6.0\Record Struct.deps.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\bin\Debug\net6.0\Record Struct.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\bin\Debug\net6.0\Record Struct.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\bin\Debug\net6.0\Record Struct.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\obj\Debug\net6.0\Record Struct.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\obj\Debug\net6.0\Record Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\obj\Debug\net6.0\Record Struct.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\obj\Debug\net6.0\Record Struct.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\obj\Debug\net6.0\Record Struct.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\obj\Debug\net6.0\Record Struct.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\obj\Debug\net6.0\refint\Record Struct.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\obj\Debug\net6.0\Record Struct.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\obj\Debug\net6.0\Record Struct.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Record Struct\obj\Debug\net6.0\ref\Record Struct.dll

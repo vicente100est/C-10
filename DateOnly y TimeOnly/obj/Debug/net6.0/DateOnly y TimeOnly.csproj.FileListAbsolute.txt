@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\bin\Debug\net6.0\DateOnly y TimeOnly.exe
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\bin\Debug\net6.0\DateOnly y TimeOnly.deps.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\bin\Debug\net6.0\DateOnly y TimeOnly.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\bin\Debug\net6.0\DateOnly y TimeOnly.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\bin\Debug\net6.0\DateOnly y TimeOnly.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\obj\Debug\net6.0\DateOnly y TimeOnly.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\obj\Debug\net6.0\DateOnly y TimeOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\obj\Debug\net6.0\DateOnly y TimeOnly.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\obj\Debug\net6.0\DateOnly y TimeOnly.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\obj\Debug\net6.0\DateOnly y TimeOnly.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\obj\Debug\net6.0\DateOnly y TimeOnly.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\obj\Debug\net6.0\refint\DateOnly y TimeOnly.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\obj\Debug\net6.0\DateOnly y TimeOnly.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\obj\Debug\net6.0\DateOnly y TimeOnly.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\DateOnly y TimeOnly\obj\Debug\net6.0\ref\DateOnly y TimeOnly.dll

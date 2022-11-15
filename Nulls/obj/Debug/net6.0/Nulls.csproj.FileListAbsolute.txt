@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\bin\Debug\net6.0\Nulls.exe
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\bin\Debug\net6.0\Nulls.deps.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\bin\Debug\net6.0\Nulls.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\bin\Debug\net6.0\Nulls.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\bin\Debug\net6.0\Nulls.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\obj\Debug\net6.0\Nulls.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\obj\Debug\net6.0\Nulls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\obj\Debug\net6.0\Nulls.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\obj\Debug\net6.0\Nulls.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\obj\Debug\net6.0\Nulls.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\obj\Debug\net6.0\Nulls.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\obj\Debug\net6.0\refint\Nulls.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\obj\Debug\net6.0\Nulls.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\obj\Debug\net6.0\Nulls.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Nulls\obj\Debug\net6.0\ref\Nulls.dll

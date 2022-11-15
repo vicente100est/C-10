@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\bin\Debug\net6.0\Cadenas Interpoladas.exe
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\bin\Debug\net6.0\Cadenas Interpoladas.deps.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\bin\Debug\net6.0\Cadenas Interpoladas.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\bin\Debug\net6.0\Cadenas Interpoladas.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\bin\Debug\net6.0\Cadenas Interpoladas.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\obj\Debug\net6.0\Cadenas Interpoladas.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\obj\Debug\net6.0\Cadenas Interpoladas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\obj\Debug\net6.0\Cadenas Interpoladas.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\obj\Debug\net6.0\Cadenas Interpoladas.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\obj\Debug\net6.0\Cadenas Interpoladas.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\obj\Debug\net6.0\Cadenas Interpoladas.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\obj\Debug\net6.0\refint\Cadenas Interpoladas.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\obj\Debug\net6.0\Cadenas Interpoladas.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\obj\Debug\net6.0\Cadenas Interpoladas.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Cadenas Interpoladas\obj\Debug\net6.0\ref\Cadenas Interpoladas.dll

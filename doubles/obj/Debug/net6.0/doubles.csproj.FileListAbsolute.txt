@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\bin\Debug\net6.0\doubles.exe
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\bin\Debug\net6.0\doubles.deps.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\bin\Debug\net6.0\doubles.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\bin\Debug\net6.0\doubles.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\bin\Debug\net6.0\doubles.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\obj\Debug\net6.0\doubles.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\obj\Debug\net6.0\doubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\obj\Debug\net6.0\doubles.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\obj\Debug\net6.0\doubles.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\obj\Debug\net6.0\doubles.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\obj\Debug\net6.0\doubles.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\obj\Debug\net6.0\refint\doubles.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\obj\Debug\net6.0\doubles.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\obj\Debug\net6.0\doubles.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\doubles\obj\Debug\net6.0\ref\doubles.dll

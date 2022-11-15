@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\bin\Debug\net6.0\Patrones de Propiedad Extendidas.exe
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\bin\Debug\net6.0\Patrones de Propiedad Extendidas.deps.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\bin\Debug\net6.0\Patrones de Propiedad Extendidas.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\bin\Debug\net6.0\Patrones de Propiedad Extendidas.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\bin\Debug\net6.0\Patrones de Propiedad Extendidas.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\obj\Debug\net6.0\Patrones de Propiedad Extendidas.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\obj\Debug\net6.0\Patrones de Propiedad Extendidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\obj\Debug\net6.0\Patrones de Propiedad Extendidas.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\obj\Debug\net6.0\Patrones de Propiedad Extendidas.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\obj\Debug\net6.0\Patrones de Propiedad Extendidas.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\obj\Debug\net6.0\Patrones de Propiedad Extendidas.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\obj\Debug\net6.0\refint\Patrones de Propiedad Extendidas.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\obj\Debug\net6.0\Patrones de Propiedad Extendidas.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\obj\Debug\net6.0\Patrones de Propiedad Extendidas.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\Patrones de Propiedad Extendidas\obj\Debug\net6.0\ref\Patrones de Propiedad Extendidas.dll

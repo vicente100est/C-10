@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\bin\Debug\net6.0\Global Usings.exe
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\bin\Debug\net6.0\Global Usings.deps.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\bin\Debug\net6.0\Global Usings.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\bin\Debug\net6.0\Global Usings.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\bin\Debug\net6.0\Global Usings.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\Global Usings.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\Global Usings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\Global Usings.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\Global Usings.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\Global Usings.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\Global Usings.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\refint\Global Usings.dll
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\Global Usings.pdb
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\Global Usings.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Consola\CS 10\obj\Debug\net6.0\ref\Global Usings.dll
